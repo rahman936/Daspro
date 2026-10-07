@@ -43,5 +43,6 @@ public class StudiKasus1_21 {
         }
 
         input.close();
+        //
     }
 }
